@@ -13,4 +13,4 @@ Plain HTML and CSS with a small script for the mobile menu. No build step: edit 
 
 ## Images
 - Arcana Artis product photos: Alisa La Volpe Scura / Arcana Artis.
-- Hero, emblem, map texture, dividers and the "coming soon" drawings are decorative illustrations, not product photos.
+- Hero, emblem, map texture, dividers and the "coming soon" images are decorative or illustrative artwork, not product photos.
